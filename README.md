@@ -29,6 +29,7 @@ git pull origin main
 git status
 git commit -m "Commit Message"
 git push
+ok get it
 
 
 
