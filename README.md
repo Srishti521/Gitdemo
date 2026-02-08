@@ -25,6 +25,10 @@ Open `index.html` in any browser.
 Srishti
 Learning GitHub with VS Code 🚀
 
+git pull origin main
+git status
+git commit -m "Commit Message"
+git push
 
 
 
