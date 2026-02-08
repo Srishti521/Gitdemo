@@ -23,6 +23,8 @@ Open `index.html` in any browser.
 \## Author
 
 Srishti
+Learning GitHub with VS Code 🚀
+
 
 
 
